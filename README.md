@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-<!--
-**SirEnri2001/sirenri2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏫 I'm currently studying Computer Graphics at University of Pennsylvania
+
+- 🌱 I’m currently learning Discrete Differential Geometry
+  
+  <a href="ddg.md">asdf</a>
+  
+  <!--
+  **SirEnri2001/sirenri2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
