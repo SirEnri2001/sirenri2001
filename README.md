@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey what's up! 👋
+
+<iframe src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 - 🏫 I'm currently studying Computer Graphics at University of Pennsylvania
 
