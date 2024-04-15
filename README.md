@@ -1,6 +1,10 @@
-<img src="images/title.jpg" style="max-height: 200px; display: inline-block"><img src="images/giphy.gif"  style="max-height: 200px; display: inline-block"/>
+<div style="display: flex;">
+<img src="images/title.jpg" style="height: 200px; display: inline-block"><img src="images/giphy.gif"  style="height: 200px; display: inline-block"/>
+</div>
 
-- 🏫 I'm currently studying Computer Graphics at University of Pennsylvania
+- 🏫 I'm currently a master's student at University of Pennsylvania
+
+- 📕 I major in Computer Graphics and Game Technology
 
 - 🌱 I’m currently learning Discrete Differential Geometry
   
