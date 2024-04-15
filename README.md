@@ -1,6 +1,6 @@
 ### Hey what's up! 👋
 
-<img src="images/giphy.gif" />
+<img src="images/title.jpg" style="height: 200px"><img src="images/giphy.gif"  style="height: 200px"/>
 
 - 🏫 I'm currently studying Computer Graphics at University of Pennsylvania
 
