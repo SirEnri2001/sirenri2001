@@ -1,9 +1,11 @@
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirenri2001)](https://github.com/anuraghazra/github-readme-stats)-->
 <img src="images/title.jpg" style="height: 200px"><img src="images/giphy.gif"  style="height: 200px"/>
 
-- 🏫 I'm currently a master's student at University of Pennsylvania
+- 🏫 I'm currently a master's student at **University of Pennsylvania**
 
-- 📕 I major in **Computer Graphics and Game Technology**
+- 📕 I major in **💻Computer Graphics and 🎮Game Technology**
+
+- 🎓 I get my Bachelor's degree at **Dalian University of Technology**, in Software Engineering
 
 - 🌱 I’m currently learning ...
   - 🔆 Physically Based Rendering & Global Illumination
