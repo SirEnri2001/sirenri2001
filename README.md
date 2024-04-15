@@ -1,12 +1,8 @@
-### Hey what's up! 👋
-
 <img src="images/title.jpg" style="height: 200px"><img src="images/giphy.gif"  style="height: 200px"/>
 
 - 🏫 I'm currently studying Computer Graphics at University of Pennsylvania
 
 - 🌱 I’m currently learning Discrete Differential Geometry
-  
-  <a href="ddg.md">asdf</a>
   
   <!--
   **SirEnri2001/sirenri2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
