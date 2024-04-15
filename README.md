@@ -1,15 +1,17 @@
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirenri2001)](https://github.com/anuraghazra/github-readme-stats)-->
-<div style="width: 100%">
-<img src="images/title.jpg" style="height: 200px; display: inline-block"><img src="images/giphy.gif"  style="height: 200px; display: inline-block"/>
-</div>
+<img src="images/title.jpg" style="height: 200px"><img src="images/giphy.gif"  style="height: 200px"/>
 
 - 🏫 I'm currently a master's student at University of Pennsylvania
 
 - 📕 I major in **Computer Graphics and Game Technology**
 
 - 🌱 I’m currently learning ...
-  - Discrete Differential Geometry
-  - 
+  - 🔆 Physically Based Rendering & Global Illumination
+  - 🌊 Fluid Simulation & PDE
+  - 🤖 Machine Leanring
+  - 📖 Discrete Differential Geometry
+  - ⛩️ Japanese
+  - And most importantly, how to ♥️love the 🌎world
   
   <!--
   **SirEnri2001/sirenri2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
