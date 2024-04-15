@@ -1,4 +1,5 @@
-<div style="display: flex;">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirenri2001)](https://github.com/anuraghazra/github-readme-stats)
+<div style="width: 100%">
 <img src="images/title.jpg" style="height: 200px; display: inline-block"><img src="images/giphy.gif"  style="height: 200px; display: inline-block"/>
 </div>
 
