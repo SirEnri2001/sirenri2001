@@ -5,7 +5,7 @@
 
 - 📕 I major in **💻Computer Graphics and 🎮Game Technology**
 
-- 🎓 I get my Bachelor's degree at **Dalian University of Technology**, in Software Engineering
+- 🎓 I get my Bachelor's degree at **Dalian University of Technology** in Software Engineering
 
 - 🌱 I’m currently learning ...
   - 🔆 Physically Based Rendering & Global Illumination
