@@ -1,4 +1,4 @@
-<img src="images/title.jpg" style="height: 200px; display: inline-block"><img src="images/giphy.gif"  style="height: 200px; display: inline-block"/>
+<img src="images/title.jpg" style="max-height: 200px; display: inline-block"><img src="images/giphy.gif"  style="max-height: 200px; display: inline-block"/>
 
 - 🏫 I'm currently studying Computer Graphics at University of Pennsylvania
 
