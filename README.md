@@ -6,9 +6,9 @@
 - 🏫 Master's student at **University of Pennsylvania**
 - 📕 Major in **Computer Graphics and Game Technology**
 - 💼 Work full time at **LIGHTSPEED STUDIOS** in **Tencent**
-- 🎓 Bachelor's degree at **Dalian University of Technology** in **Software Engineering**
+- 🎓 Completed Bachelor's degree at **Dalian University of Technology** in **Software Engineering**
 
-# Currently Learning & Interests
+# Learning & Interests
 - 🔆 Physically Based Rendering & Global Illumination
 - 🌊 Fluid Simulation & PDE
 - 🤖 Machine Leanring
@@ -22,7 +22,13 @@
 - My experience in English learning <a href="https://animated-clavicle-3e7.notion.site/f8a0a352f80c453884a701cd8e05bae6?pvs=4">英语学习</a>
 - Navier-Stokes Equation & Material Derivatives <a href="https://sirenri2001.github.io/2024-03-21-overview-of-fluid-simulation.md/">Overview Of Fluid Simulation</a>
 - To be continued ... If this helps, please STAR <a href="https://github.com/sirenri2001/sirenri2001">this repo</a> and send me topics of your interests in the issues.
-  
+
+# Tech Skills
+## Programming Languages
+- C/C++
+- Python
+- Java
+- Rust
   <!--
   **SirEnri2001/sirenri2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
