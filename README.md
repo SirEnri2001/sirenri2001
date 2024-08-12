@@ -2,6 +2,7 @@
 <img src="images/title.jpg" style="height: 200px"><img src="images/giphy.gif"  style="height: 200px"/>
 
 # About Me
+- ⛪ A New Christian
 - 🥰 Computer Graphics Researcher & Full-Stack Engineer
 - 🏫 Master's student at **University of Pennsylvania**
 - 📕 Major in **Computer Graphics and Game Technology**
