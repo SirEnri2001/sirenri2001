@@ -25,9 +25,17 @@
 - To be continued ... If this helps, please STAR <a href="https://github.com/sirenri2001/sirenri2001">this repo</a> and send me topics of your interests in the issues.
 
 # Tech Skills
+## Frameworks
+- Pytorch/Tensorflow/Google Jax
+- OpenGL/libigl/ImGUI
+- C++ Boost
+- Flask
+- Java Spark
+- Nginx
 ## Programming Languages
 - C/C++
 - Python
+- HTML/CSS/Javascript
 - Java
 - Rust
   <!--
